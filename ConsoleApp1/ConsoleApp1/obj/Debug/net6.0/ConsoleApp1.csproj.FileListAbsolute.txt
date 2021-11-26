@@ -1,0 +1,16 @@
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ref/ConsoleApp1.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GlobalUsings.g.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache

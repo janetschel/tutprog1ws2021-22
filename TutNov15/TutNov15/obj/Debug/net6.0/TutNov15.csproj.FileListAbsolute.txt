@@ -1,0 +1,16 @@
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/TutNov15
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/TutNov15.deps.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/TutNov15.runtimeconfig.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/TutNov15.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/ref/TutNov15.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/bin/Debug/net6.0/TutNov15.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.GlobalUsings.g.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.csproj.AssemblyReference.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.AssemblyInfoInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.AssemblyInfo.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.csproj.CoreCompileInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/ref/TutNov15.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/TutNov15/TutNov15/obj/Debug/net6.0/TutNov15.genruntimeconfig.cache
