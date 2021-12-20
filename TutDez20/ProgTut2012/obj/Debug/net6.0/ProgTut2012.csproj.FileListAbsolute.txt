@@ -1,0 +1,16 @@
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ProgTut2012
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ProgTut2012.deps.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ProgTut2012.runtimeconfig.json
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ProgTut2012.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ref/ProgTut2012.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/bin/Debug/net6.0/ProgTut2012.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.GlobalUsings.g.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.csproj.AssemblyReference.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.AssemblyInfoInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.AssemblyInfo.cs
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.csproj.CoreCompileInputs.cache
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ref/ProgTut2012.dll
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.pdb
+/Volumes/Externe Daten/Tutorium/ConsoleApp1/ProgTut2012/ProgTut2012/obj/Debug/net6.0/ProgTut2012.genruntimeconfig.cache
